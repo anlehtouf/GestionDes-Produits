@@ -1,0 +1,12 @@
+.root {
+    -fx-background-color: #f4f4f4;
+}
+
+.button {
+    -fx-background-color: #4CAF50;
+    -fx-text-fill: white;
+}
+
+.list-view {
+    -fx-background-color: white;
+}
